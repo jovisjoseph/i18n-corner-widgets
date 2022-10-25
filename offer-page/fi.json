@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> on lahjakas sinulle <gift_offer> alennuskuponki",
+  "gift_share_page_description": "Palkkio soveltuu automaattisesti tähän istuntoon. Joten voit ostaa jotain juuri nyt ja kuponki sovelletaan automaattisesti. Mutta jos haluat käyttää tätä koodia myöhemmin tai toisella laitteella, kopioi alla oleva koodi",
+  "copy_text": "Kopioi napsauttamalla",
+  "valid_upto": "Voimassa",
+  "reward_share_page_title": "Olet lukenut palkinnon <reward_offer> ihmisten viittaamiseksi",
+  "reward_share_page_description": "Palkkio soveltuu automaattisesti tähän istuntoon. Joten voit ostaa jotain juuri nyt ja kuponki sovelletaan automaattisesti. Mutta jos haluat käyttää tätä koodia myöhemmin tai toisella laitteella, kopioi alla oleva koodi",
+  "reward_share_page_next_reward_title": "Seuraava palkintovaihe",
+  "reward_share_page_next_reward_description": "Viitaten <reward_requirement> tai enemmän ihmisiä",
+  "invalid_gift_share_modal_title": "Virheellinen lahja URL",
+  "invalid_share_modal_description": "Lahjakuponki ei voi lunastaa itse viittaus",
+  "invalid_modal_cta": "Ok",
+  "share_modal_cta_text": "Jatka ostoksia"
+}

@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> tehetséges neked egy <gift_offer> kedvezményes kupon",
+  "gift_share_page_description": "A jutalmat automatikusan alkalmazzák erre a munkamenetre. Tehát most vásárolhat bármit, és a kupont automatikusan alkalmazzák. De ha később vagy egy másik eszközön szeretné használni ezt a kódot, másolja az alábbi kódot",
+  "copy_text": "Kattintson a másoláshoz",
+  "valid_upto": "Érvényes",
+  "reward_share_page_title": "A <reward_offer> jutalmat kinyitotta az emberek hivatkozásáért",
+  "reward_share_page_description": "A jutalmat automatikusan alkalmazzák erre a munkamenetre. Tehát most vásárolhat bármit, és a kupont automatikusan alkalmazzák. De ha később vagy egy másik eszközön szeretné használni ezt a kódot, másolja az alábbi kódot",
+  "reward_share_page_next_reward_title": "Következő jutalom szakasz",
+  "reward_share_page_next_reward_description": "A <reward_requirement> vagy több ember hivatkozásához",
+  "invalid_gift_share_modal_title": "Érvénytelen ajándék URL",
+  "invalid_share_modal_description": "Az ajándék kupont nem lehet visszaváltani a referrer maga",
+  "invalid_modal_cta": "rendben",
+  "share_modal_cta_text": "Folytatni a vásárlást"
+}

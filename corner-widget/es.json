@@ -1,0 +1,12 @@
+{
+  "assistant": {
+    "category_cards_title": "categorías",
+    "featured_faq_title": "Presentado",
+    "view_in_faq": "Ver todo",
+    "welcome_text": "Hola, ¿en qué puedo ayudarle?",
+    "contact_us_label": "Contáctenos",
+    "search_results_title": "Resultados de la búsqueda",
+    "search_box_placeholder": "Buscar respuestas",
+    "search_empty_result": "No se encontraron respuestas"
+  }
+}

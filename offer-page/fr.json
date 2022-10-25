@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> vous avez doué sur un coupon de réduction <gift_offer>",
+  "gift_share_page_description": "La récompense est automatiquement appliquée à cette session. Vous pouvez donc acheter n'importe quoi maintenant et le coupon sera appliqué automatiquement. Mais si vous souhaitez utiliser ce code plus tard ou sur un autre périphérique, copiez le code ci-dessous.",
+  "copy_text": "Cliquez pour copier",
+  "valid_upto": "Valable jusqu'au",
+  "reward_share_page_title": "Vous avez déverrouillé une récompense de <reward_offer> pour faire référence aux personnes",
+  "reward_share_page_description": "La récompense est automatiquement appliquée à cette session. Vous pouvez donc acheter n'importe quoi maintenant et le coupon sera appliqué automatiquement. Mais si vous souhaitez utiliser ce code plus tard ou sur un autre périphérique, copiez le code ci-dessous.",
+  "reward_share_page_next_reward_title": "Prochaine étape de récompense",
+  "reward_share_page_next_reward_description": "Pour faire référence à <reward_requirement> ou plus de personnes",
+  "invalid_gift_share_modal_title": "URL de cadeau non valide",
+  "invalid_share_modal_description": "Le coupon cadeau ne peut être échangé par le référent lui-même",
+  "invalid_modal_cta": "d'accord",
+  "share_modal_cta_text": "Continuer vos achats"
+}

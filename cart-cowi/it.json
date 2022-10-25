@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "Carrello",
+  "widget_close_text": "Chiudere",
+  "optional_note_btn_text": "Aggiungi una nota facoltativa",
+  "optional_note_title": "Nota facoltativa",
+  "optional_note_cta": "Aggiungi nota",
+  "optional_note_cancel": "Annulla",
+  "total_text": "Totale",
+  "cart_list_cta": "Guardare",
+  "related_items_title": "Potrebbe piacerti anche...",
+  "related_items_cta": "Aggiungere",
+  "cart_empty_state": "Nessun articolo nel carrello",
+  "cart_list_go_to_cart_page": "Vai al carrello",
+  "cart_list_continue_shopping": "Continua a fare acquisti"
+}

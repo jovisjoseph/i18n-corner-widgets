@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "Winkelwagen",
+  "widget_close_text": "Dichtbij",
+  "optional_note_btn_text": "Optionele opmerking toevoegen",
+  "optional_note_title": "Optionele opmerking:",
+  "optional_note_cta": "Opmerking toevoegen",
+  "optional_note_cancel": "Annuleren",
+  "total_text": "Totaal",
+  "cart_list_cta": "Uitchecken",
+  "related_items_title": "Dit vind je misschien ook leuk...",
+  "related_items_cta": "Toevoegen",
+  "cart_empty_state": "Geen artikelen in de winkelwagen",
+  "cart_list_go_to_cart_page": "Ga naar winkelwagen",
+  "cart_list_continue_shopping": "Doorgaan met winkelen"
+}

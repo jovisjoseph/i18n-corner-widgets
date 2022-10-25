@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "Vogn",
+  "widget_close_text": "Tæt",
+  "optional_note_btn_text": "Tilføj valgfri note",
+  "optional_note_title": "Valgfri note",
+  "optional_note_cta": "Tilføj note",
+  "optional_note_cancel": "Afbestille",
+  "total_text": "i alt",
+  "cart_list_cta": "Checkout",
+  "related_items_title": "Du vil måske også kunne lide...",
+  "related_items_cta": "Tilføje",
+  "cart_empty_state": "Ingen varer i kurven",
+  "cart_list_go_to_cart_page": "Gå til indkøbsvogn",
+  "cart_list_continue_shopping": "Fortsætte med at handle"
+}

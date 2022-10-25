@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> utalony kuponem rabatowym <gift_offer>",
+  "gift_share_page_description": "Nagroda jest automatycznie stosowana do tej sesji. Więc możesz kupić coś teraz, a kupon zostanie zastosowany automatycznie. Ale jeśli chcesz użyć tego kodu później lub na innym urządzeniu, skopiuj poniższy kod",
+  "copy_text": "Kliknij, aby skopiować",
+  "valid_upto": "Ważny do",
+  "reward_share_page_title": "Odblokowałeś nagrodę za pomocą ludzi",
+  "reward_share_page_description": "Nagroda jest automatycznie stosowana do tej sesji. Więc możesz kupić coś teraz, a kupon zostanie zastosowany automatycznie. Ale jeśli chcesz użyć tego kodu później lub na innym urządzeniu, skopiuj poniższy kod",
+  "reward_share_page_next_reward_title": "Następna nagroda",
+  "reward_share_page_next_reward_description": "Do odwołania <reward_requirement> lub więcej osób",
+  "invalid_gift_share_modal_title": "Nieprawidłowy URL prezentu",
+  "invalid_share_modal_description": "Kupon upominkowy nie może zostać odkupiony przez samą redukcję",
+  "invalid_modal_cta": "ok",
+  "share_modal_cta_text": "Kontynuować zakupy"
+}

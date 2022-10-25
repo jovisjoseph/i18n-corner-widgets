@@ -1,0 +1,12 @@
+{
+  "assistant": {
+    "category_cards_title": "فئات",
+    "featured_faq_title": "متميز",
+    "view_in_faq": "عرض جميع",
+    "welcome_text": "مرحبا هناك، وكيف يمكن أن أساعدك؟",
+    "contact_us_label": "اتصل بنا",
+    "search_results_title": "نتائج البحث",
+    "search_box_placeholder": "البحث عن إجابات",
+    "search_empty_result": "لا توجد إجابات"
+  }
+}

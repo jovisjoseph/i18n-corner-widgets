@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "Carrinho",
+  "widget_close_text": "Perto",
+  "optional_note_btn_text": "Adicionar nota opcional",
+  "optional_note_title": "Nota opcional",
+  "optional_note_cta": "Adicionar nota",
+  "optional_note_cancel": "Cancelar",
+  "total_text": "Total",
+  "cart_list_cta": "Confira",
+  "related_items_title": "Você pode gostar...",
+  "related_items_cta": "Adicionar",
+  "cart_empty_state": "Não há itens no carrinho",
+  "cart_list_go_to_cart_page": "Ir para o carrinho",
+  "cart_list_continue_shopping": "Continue comprando"
+}

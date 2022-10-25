@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name>은 당신에게 <gift_offer> 할인 쿠폰을 재능이있다.",
+  "gift_share_page_description": "보상은이 세션에 자동으로 적용됩니다. 따라서 지금 아무것도 구입할 수 있으며 쿠폰이 자동으로 적용됩니다. 그러나 나중에 또는 다른 장치 에서이 코드를 사용하려면 아래 코드를 복사하십시오.",
+  "copy_text": "복사하려면 클릭하십시오",
+  "valid_upto": "유효합니다",
+  "reward_share_page_title": "사람들을 추천해서 <reward_offer>의 보상을 잠금 해제했습니다.",
+  "reward_share_page_description": "보상은이 세션에 자동으로 적용됩니다. 따라서 지금 아무것도 구입할 수 있으며 쿠폰이 자동으로 적용됩니다. 그러나 나중에 또는 다른 장치 에서이 코드를 사용하려면 아래 코드를 복사하십시오.",
+  "reward_share_page_next_reward_title": "다음 보상 단계",
+  "reward_share_page_next_reward_description": "추천 <reward_requirement> 또는 그 이상의 사람들",
+  "invalid_gift_share_modal_title": "잘못된 선물 URL",
+  "invalid_share_modal_description": "선물 쿠폰은 리퍼러 자체에 의해 구속 될 수 없습니다.",
+  "invalid_modal_cta": "좋아요",
+  "share_modal_cta_text": "쇼핑을 계속"
+}

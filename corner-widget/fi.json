@@ -1,0 +1,12 @@
+{
+  "assistant": {
+    "category_cards_title": "Luokat",
+    "featured_faq_title": "Kiinnostavat",
+    "view_in_faq": "Näytä kaikki",
+    "welcome_text": "Moi, kuinka voin auttaa?",
+    "contact_us_label": "Ota meihin yhteyttä",
+    "search_results_title": "Hakutulokset",
+    "search_box_placeholder": "Etsiä vastauksia",
+    "search_empty_result": "Ei vastausta löytynyt"
+  }
+}

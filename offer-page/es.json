@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> te han regalado un cupón de descuento <gift_offer>",
+  "gift_share_page_description": "La recompensa se aplica automáticamente a esta sesión. Para que pueda comprar cualquier cosa en este momento y el cupón se aplicará automáticamente. Pero si desea utilizar este código más adelante o en otro dispositivo, copie el código a continuación",
+  "copy_text": "Haga clic para copiar",
+  "valid_upto": "Válida hasta",
+  "reward_share_page_title": "Has desbloqueado una recompensa de <reward_offer> para referir a las personas",
+  "reward_share_page_description": "La recompensa se aplica automáticamente a esta sesión. Para que pueda comprar cualquier cosa en este momento y el cupón se aplicará automáticamente. Pero si desea utilizar este código más adelante o en otro dispositivo, copie el código a continuación",
+  "reward_share_page_next_reward_title": "Siguiente etapa de recompensa",
+  "reward_share_page_next_reward_description": "Para referir <reward_requirement> o más personas",
+  "invalid_gift_share_modal_title": "URL de regalo no válida",
+  "invalid_share_modal_description": "El cupón de regalo no puede ser redimido por el propio referente.",
+  "invalid_modal_cta": "OK",
+  "share_modal_cta_text": "Seguir comprando"
+}

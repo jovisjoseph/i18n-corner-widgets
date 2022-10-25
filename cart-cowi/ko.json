@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "카트",
+  "widget_close_text": "닫다",
+  "optional_note_btn_text": "선택적 메모 추가",
+  "optional_note_title": "선택적 참고",
+  "optional_note_cta": "메모를 추가",
+  "optional_note_cancel": "취소",
+  "total_text": "총",
+  "cart_list_cta": "점검",
+  "related_items_title": "당신은 또한 좋아할 수 있습니다 ...",
+  "related_items_cta": "추가하다",
+  "cart_empty_state": "장바구니에 항목이 없습니다",
+  "cart_list_go_to_cart_page": "장바구니로 이동",
+  "cart_list_continue_shopping": "쇼핑을 계속"
+}

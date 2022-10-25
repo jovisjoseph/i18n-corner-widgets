@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> hebben u een <gift_offer> kortingsbon giften",
+  "gift_share_page_description": "De beloning wordt automatisch toegepast op deze sessie. U kunt dus alles kopen en de kortingsbon wordt automatisch toegepast. Maar als u deze code later of op een ander apparaat wilt gebruiken, kopieert u de onderstaande code",
+  "copy_text": "Klik om te kopiëren",
+  "valid_upto": "Geldig tot",
+  "reward_share_page_title": "Je hebt een beloning van <reward_offer> ontgrendeld voor het verwijzen van mensen",
+  "reward_share_page_description": "De beloning wordt automatisch toegepast op deze sessie. U kunt dus alles kopen en de kortingsbon wordt automatisch toegepast. Maar als u deze code later of op een ander apparaat wilt gebruiken, kopieert u de onderstaande code",
+  "reward_share_page_next_reward_title": "Volgende beloningsfase",
+  "reward_share_page_next_reward_description": "Om <reward_requirement> of meer mensen te verwijzen",
+  "invalid_gift_share_modal_title": "Ongeldige geschenk-URL",
+  "invalid_share_modal_description": "De giftcoupon kan niet worden ingewisseld door de verwijzer zelf",
+  "invalid_modal_cta": "Oke",
+  "share_modal_cta_text": "Doorgaan met winkelen"
+}

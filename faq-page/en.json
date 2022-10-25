@@ -1,0 +1,10 @@
+{
+  "article_count": { "singular": "article", "plural": "articles" },
+  "home": "home",
+  "featured_title": "Featured",
+  "updated_at": "Updated at",
+  "similar_articles": "similar articles",
+  "view_all": "View all",
+  "search_box_placeholder": "Search for answers",
+  "search_empty_result": "No answers found"
+}

@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "カート",
+  "widget_close_text": "選ぶ",
+  "optional_note_btn_text": "オプションのメモを追加",
+  "optional_note_title": "オプションの注意",
+  "optional_note_cta": "メモを追加",
+  "optional_note_cancel": "キャンセル",
+  "total_text": "合計",
+  "cart_list_cta": "チェックアウト",
+  "related_items_title": "あなたも好きかも...",
+  "related_items_cta": "追加",
+  "cart_empty_state": "カートにアイテムがありません",
+  "cart_list_go_to_cart_page": "カートに行く",
+  "cart_list_continue_shopping": "ショッピングを続ける"
+}

@@ -1,0 +1,12 @@
+{
+  "assistant": {
+    "category_cards_title": "Kategorier",
+    "featured_faq_title": "Udvalgte",
+    "view_in_faq": "Se alt",
+    "welcome_text": "Hej, hvordan kan jeg hjælpe dig?",
+    "contact_us_label": "Kontakt os",
+    "search_results_title": "Søgeresultater",
+    "search_box_placeholder": "Søg efter svar",
+    "search_empty_result": "Ingen svar fundet"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "कार्ट",
+  "widget_close_text": "बंद करे",
+  "optional_note_btn_text": "वैकल्पिक नोट जोड़ें",
+  "optional_note_title": "वैकल्पिक नोट",
+  "optional_note_cta": "नोट जोड़े",
+  "optional_note_cancel": "रद्द करना",
+  "total_text": "कुल",
+  "cart_list_cta": "चेक आउट",
+  "related_items_title": "आपको यह भी पसंद आ सकता हैं...",
+  "related_items_cta": "जोड़ें",
+  "cart_empty_state": "कार्ट में कोई सामग्री नहीं है",
+  "cart_list_go_to_cart_page": "गाड़ी पर जाना",
+  "cart_list_continue_shopping": "खरीदारी जारी रखें"
+}

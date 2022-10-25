@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name>為您提供了一個<gift_offer>折扣優惠券",
+  "gift_share_page_description": "獎勵自動應用於本次會話。因此，您可以立即購買任何東西，優惠券將自動應用。但如果要稍後或在另一個設備上使用此代碼，請在下面複製代碼",
+  "copy_text": "點擊複製",
+  "valid_upto": "有效期至",
+  "reward_share_page_title": "你解開了引用人員<reward_offer>的獎勵",
+  "reward_share_page_description": "獎勵自動應用於本次會話。因此，您可以立即購買任何東西，優惠券將自動應用。但如果要稍後或在另一個設備上使用此代碼，請在下面複製代碼",
+  "reward_share_page_next_reward_title": "下一個獎勵階段",
+  "reward_share_page_next_reward_description": "用於引用<reward_requirement>或更多人",
+  "invalid_gift_share_modal_title": "無效的禮品URL",
+  "invalid_share_modal_description": "禮品優惠券不能被推薦人本身兌換",
+  "invalid_modal_cta": "好的",
+  "share_modal_cta_text": "繼續購物"
+}

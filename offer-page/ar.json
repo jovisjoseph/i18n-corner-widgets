@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> قد وصلت إليك <gift_offer> خصم",
+  "gift_share_page_description": "يتم تطبيق المكافأة تلقائيا على هذه الجلسة. حتى تتمكن من شراء أي شيء الآن وسيتم تطبيق القسيمة تلقائيا. ولكن إذا كنت ترغب في استخدام هذا الرمز لاحقا أو على جهاز آخر، فقم بنسخ الرمز أدناه",
+  "copy_text": "انقر لنسخ",
+  "valid_upto": "صالح يصل إلى",
+  "reward_share_page_title": "لقد قمت بإلغاء تأمين مكافأة <reward_offer> لإحالة الناس",
+  "reward_share_page_description": "يتم تطبيق المكافأة تلقائيا على هذه الجلسة. حتى تتمكن من شراء أي شيء الآن وسيتم تطبيق القسيمة تلقائيا. ولكن إذا كنت ترغب في استخدام هذا الرمز لاحقا أو على جهاز آخر، فقم بنسخ الرمز أدناه",
+  "reward_share_page_next_reward_title": "مرحلة المكافأة التالية",
+  "reward_share_page_next_reward_description": "للإشارة <reward_requirement> أو أكثر",
+  "invalid_gift_share_modal_title": "عنوان URL هدية غير صالح",
+  "invalid_share_modal_description": "لا يمكن استبدال كوبون الهدايا من قبل المرجع نفسه",
+  "invalid_modal_cta": "نعم",
+  "share_modal_cta_text": "مواصلة التسوق"
+}

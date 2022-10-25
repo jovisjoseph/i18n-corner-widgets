@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name>あなたに贈った<gift_offer>割引クーポン",
+  "gift_share_page_description": "報酬は自動的にこのセッションに適用されます。だからあなたは今何も購入することができ、クーポンは自動的に適用されます。ただし、このコードを後で使用する場合、または他のデバイスで使用する場合は、以下のコードをコピーしてください。",
+  "copy_text": "クリックしてコピーします",
+  "valid_upto": "に有効",
+  "reward_share_page_title": "紹介者のための<reward_offer>の報酬のロックを解除しました",
+  "reward_share_page_description": "報酬は自動的にこのセッションに適用されます。だからあなたは今何も購入することができ、クーポンは自動的に適用されます。ただし、このコードを後で使用する場合、または他のデバイスで使用する場合は、以下のコードをコピーしてください。",
+  "reward_share_page_next_reward_title": "次の報酬ステージ",
+  "reward_share_page_next_reward_description": "<reward_requirement>以上の人々を参照するために",
+  "invalid_gift_share_modal_title": "無効なギフトURL",
+  "invalid_share_modal_description": "ギフトクーポンは参照元自体によって引き換えることはできません",
+  "invalid_modal_cta": "わかった",
+  "share_modal_cta_text": "ショッピングを続ける"
+}

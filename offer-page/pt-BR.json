@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> te dotou um cupom de desconto <gift_offer>",
+  "gift_share_page_description": "A recompensa é aplicada automaticamente a esta sessão. Então você pode comprar qualquer coisa agora e o cupom será aplicado automaticamente. Mas se você quiser usar este código mais tarde ou em outro dispositivo, copie o código abaixo",
+  "copy_text": "Clique para copiar.",
+  "valid_upto": "Válido até",
+  "reward_share_page_title": "Você desbloqueou uma recompensa de <reward_offer> para referir pessoas",
+  "reward_share_page_description": "A recompensa é aplicada automaticamente a esta sessão. Então você pode comprar qualquer coisa agora e o cupom será aplicado automaticamente. Mas se você quiser usar este código mais tarde ou em outro dispositivo, copie o código abaixo",
+  "reward_share_page_next_reward_title": "Próximo estágio de recompensa",
+  "reward_share_page_next_reward_description": "Para referir <reward_requirement> ou mais pessoas",
+  "invalid_gift_share_modal_title": "URL de presente inválido.",
+  "invalid_share_modal_description": "O cupom do presente não pode ser resgatado pelo próprio referenciador",
+  "invalid_modal_cta": "OK",
+  "share_modal_cta_text": "Continue comprando"
+}

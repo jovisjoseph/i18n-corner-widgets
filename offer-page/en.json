@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> have gifted you a <gift_offer> discount coupon",
+  "gift_share_page_description": "The reward is automatically applied to this session. So you can purchase anything right now and the coupon will be applied automatically. But if you want to use this code later or on an another device, copy the code below",
+  "copy_text": "Click to copy",
+  "valid_upto": "Valid up to",
+  "reward_share_page_title": "You've unlocked a reward of <reward_offer> for referring people",
+  "reward_share_page_description": "The reward is automatically applied to this session. So you can purchase anything right now and the coupon will be applied automatically. But if you want to use this code later or on an another device, copy the code below",
+  "reward_share_page_next_reward_title": "Next Reward Stage",
+  "reward_share_page_next_reward_description": "For referring <reward_requirement> or more people",
+  "invalid_gift_share_modal_title": "Invalid Gift URL",
+  "invalid_share_modal_description": "The Gift coupon cannot be redeemed by the referrer itself",
+  "invalid_modal_cta": "OK",
+  "share_modal_cta_text": "Continue Shopping"
+}

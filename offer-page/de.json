@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> haben Ihnen einen <gift_offer> Rabatt-Coupon begabt",
+  "gift_share_page_description": "Die Belohnung wird automatisch auf diese Sitzung angewendet. So können Sie jetzt etwas kaufen und der Gutschein wird automatisch angewendet. Wenn Sie diesen Short Code jedoch später oder auf einem anderen Gerät verwenden möchten, kopieren Sie den untenstehenden Short Code",
+  "copy_text": "Klicken Sie auf das Kopieren",
+  "valid_upto": "Gültig bis",
+  "reward_share_page_title": "Sie haben eine Belohnung von <reward_offer> für die Überweisung von Personen freigeschaltet",
+  "reward_share_page_description": "Die Belohnung wird automatisch auf diese Sitzung angewendet. So können Sie jetzt etwas kaufen und der Gutschein wird automatisch angewendet. Wenn Sie diesen Short Code jedoch später oder auf einem anderen Gerät verwenden möchten, kopieren Sie den untenstehenden Short Code",
+  "reward_share_page_next_reward_title": "Nächste Belohnungsphase",
+  "reward_share_page_next_reward_description": "Zum Verweisen von <reward_requirement> oder mehr Personen",
+  "invalid_gift_share_modal_title": "Ungültige Geschenk-URL.",
+  "invalid_share_modal_description": "Der Geschenkgutschein kann nicht vom Referrer selbst eingelöst werden",
+  "invalid_modal_cta": "OK",
+  "share_modal_cta_text": "Mit dem Einkaufen fortfahren"
+}

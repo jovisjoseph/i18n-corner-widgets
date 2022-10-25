@@ -1,0 +1,12 @@
+{
+  "assistant": {
+    "category_cards_title": "Categories",
+    "featured_faq_title": "Featured",
+    "view_in_faq": "View all",
+    "welcome_text": "Hi there, how may i help you?",
+    "contact_us_label": "Contact us",
+    "search_results_title": "Search Results",
+    "search_box_placeholder": "Search for answers",
+    "search_empty_result": "No answers found"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "article_count": { "singular": "文章", "plural": "用品" },
+  "home": "家",
+  "featured_title": "精選",
+  "updated_at": "更新時間",
+  "similar_articles": "類似的文章",
+  "view_all": "查看全部",
+  "search_box_placeholder": "搜索答案",
+  "search_empty_result": "沒有找到答案"
+}

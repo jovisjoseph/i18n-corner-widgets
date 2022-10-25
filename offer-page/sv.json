@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> har begåvat dig en <gift_offer> rabattkupong",
+  "gift_share_page_description": "Belöningen tillämpas automatiskt på den här sessionen. Så du kan köpa något just nu och kupongen kommer automatiskt att tillämpas. Men om du vill använda den här koden senare eller på en annan enhet, kopiera koden nedan",
+  "copy_text": "Klicka för att kopiera",
+  "valid_upto": "Giltig till",
+  "reward_share_page_title": "Du har låst upp en belöning av <reward_offer> för att hänvisa folk",
+  "reward_share_page_description": "Belöningen tillämpas automatiskt på den här sessionen. Så du kan köpa något just nu och kupongen kommer automatiskt att tillämpas. Men om du vill använda den här koden senare eller på en annan enhet, kopiera koden nedan",
+  "reward_share_page_next_reward_title": "Nästa belöningsstadium",
+  "reward_share_page_next_reward_description": "För att hänvisa <reward_requirement> eller fler personer",
+  "invalid_gift_share_modal_title": "Ogiltig presentadress",
+  "invalid_share_modal_description": "Presentkupongen kan inte lösas av referensrisen själv",
+  "invalid_modal_cta": "OK",
+  "share_modal_cta_text": "Fortsätt handla"
+}

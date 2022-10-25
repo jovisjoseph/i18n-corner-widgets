@@ -1,0 +1,14 @@
+{
+  "gift_share_page_title": "<referrer_name> มีพรสวรรค์คูปองส่วนลด <gift_offer>",
+  "gift_share_page_description": "รางวัลจะถูกนำไปใช้กับเซสชันนี้โดยอัตโนมัติ ดังนั้นคุณสามารถซื้อสิ่งใดตอนนี้และคูปองจะถูกนำไปใช้โดยอัตโนมัติ แต่ถ้าคุณต้องการใช้รหัสนี้ในภายหลังหรือบนอุปกรณ์อื่นให้คัดลอกรหัสด้านล่าง",
+  "copy_text": "คลิกเพื่อคัดลอก",
+  "valid_upto": "สามารถใช้งานได้",
+  "reward_share_page_title": "คุณได้ปลดล็อกรางวัล <reward_offer> สำหรับการอ้างอิงคน",
+  "reward_share_page_description": "รางวัลจะถูกนำไปใช้กับเซสชันนี้โดยอัตโนมัติ ดังนั้นคุณสามารถซื้อสิ่งใดตอนนี้และคูปองจะถูกนำไปใช้โดยอัตโนมัติ แต่ถ้าคุณต้องการใช้รหัสนี้ในภายหลังหรือบนอุปกรณ์อื่นให้คัดลอกรหัสด้านล่าง",
+  "reward_share_page_next_reward_title": "ขั้นตอนต่อไป",
+  "reward_share_page_next_reward_description": "สำหรับการอ้างอิง <reward_requirement> คนหรือมากกว่านั้น",
+  "invalid_gift_share_modal_title": "URL ของขวัญไม่ถูกต้อง",
+  "invalid_share_modal_description": "คูปองของขวัญไม่สามารถแลกได้โดยผู้อ้างอิงเอง",
+  "invalid_modal_cta": "ตกลง",
+  "share_modal_cta_text": "ช้อปปิ้งต่อไป"
+}

@@ -1,0 +1,15 @@
+{
+  "cart_context_title": "Chariot",
+  "widget_close_text": "proche",
+  "optional_note_btn_text": "Ajouter une note facultative",
+  "optional_note_title": "Remarque facultative",
+  "optional_note_cta": "Ajouter une note",
+  "optional_note_cancel": "Annuler",
+  "total_text": "Total",
+  "cart_list_cta": "Vérifier",
+  "related_items_title": "Tu pourrais aussi aimer...",
+  "related_items_cta": "Ajouter",
+  "cart_empty_state": "Aucun article dans le panier",
+  "cart_list_go_to_cart_page": "Aller au panier",
+  "cart_list_continue_shopping": "Continuer vos achats"
+}
