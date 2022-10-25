@@ -9,6 +9,12 @@
     "cart_list_cta": "查看",
     "related_items_title": "你可能也会喜欢...",
     "related_items_cta": "添加",
-    "cart_empty_state": "购物车中没有商品"
-   , "cart_list_go_to_cart_page":"去购物车",
-    "cart_list_continue_shopping":"继续购物"}
+    "cart_empty_state": "购物车中没有商品",
+    "cart_list_go_to_cart_page": "去购物车",
+    "cart_list_continue_shopping": "继续购物",
+    "free_product_badge": "免费产品解锁",
+    "shipping_text": "船运",
+    "free_text": "自由的",
+    "sold_out": "售罄",
+    "add_item": "添加项目"
+}
