@@ -16,5 +16,9 @@
     "shipping_text": "運送",
     "free_text": "無料",
     "sold_out": "完売",
-    "add_item": "アイテムを追加"
+    "add_item": "アイテムを追加",
+    "discount_text": "割引",
+    "discount_box_place_holder": "割引コードを適用",
+    "discount_box_cta": "申し込み",
+    "discount_info_text": "割引はチェックアウト時に適用されます"
 }
