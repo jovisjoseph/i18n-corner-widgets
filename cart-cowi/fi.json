@@ -16,5 +16,9 @@
     "shipping_text": "laivaus",
     "free_text": "Vapaa",
     "sold_out": "Loppuunmyyty",
-    "add_item": "Lisää tavara"
+    "add_item": "Lisää tavara",
+    "discount_text": "Alennus",
+    "discount_box_place_holder": "Käytä alennuskoodia",
+    "discount_box_cta": "Käytä",
+    "discount_info_text": "Alennus lasketaan kassalla"
 }
