@@ -16,5 +16,9 @@
     "shipping_text": "شحن",
     "free_text": "حر",
     "sold_out": "نفذ",
-    "add_item": "اضافة عنصر"
+    "add_item": "اضافة عنصر",
+    "discount_text": "تخفيض",
+    "discount_box_place_holder": "تطبيق كود الخصم",
+    "discount_box_cta": "تطبيق",
+    "discount_info_text": "سيتم الخصم عند الخروج"
 }
