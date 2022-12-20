@@ -16,5 +16,9 @@
     "shipping_text": "船運",
     "free_text": "自由的",
     "sold_out": "售罄",
-    "add_item": "添加項目"
+    "add_item": "添加項目",
+    "discount_text": "折扣",
+    "discount_box_place_holder": "申請折扣碼",
+    "discount_box_cta": "申請",
+    "discount_info_text": "折扣將在結帳時應用"
 }
