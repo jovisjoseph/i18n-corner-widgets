@@ -16,5 +16,9 @@
     "shipping_text": "배송",
     "free_text": "무료",
     "sold_out": "매진",
-    "add_item": "아이템 추가"
+    "add_item": "아이템 추가",
+    "discount_text": "할인",
+    "discount_box_place_holder": "할인 코드 적용",
+    "discount_box_cta": "적용하다",
+    "discount_info_text": "결제 시 할인이 적용됩니다."
 }
