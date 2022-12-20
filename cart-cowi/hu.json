@@ -16,5 +16,9 @@
     "shipping_text": "Szállítás",
     "free_text": "Ingyenes",
     "sold_out": "Elkelt",
-    "add_item": "Elem hozzáadása"
+    "add_item": "Elem hozzáadása",
+    "discount_text": "Kedvezmény",
+    "discount_box_place_holder": "Alkalmazza a kedvezménykódot",
+    "discount_box_cta": "Alkalmaz",
+    "discount_info_text": "A kedvezmény a pénztárnál érvényesül"
 }
