@@ -16,5 +16,9 @@
     "shipping_text": "Envio",
     "free_text": "Livre",
     "sold_out": "Vendido",
-    "add_item": "Adicionar Item"
+    "add_item": "Adicionar Item",
+    "discount_text": "Desconto",
+    "discount_box_place_holder": "Aplicar código de desconto",
+    "discount_box_cta": "Aplicar",
+    "discount_info_text": "O desconto sera aplicado na saida"
 }
