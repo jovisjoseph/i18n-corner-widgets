@@ -16,5 +16,9 @@
     "shipping_text": "Доставка",
     "free_text": "безкоштовно",
     "sold_out": "Продано",
-    "add_item": "Додати товар"
+    "add_item": "Додати товар",
+    "discount_text": "Знижка",
+    "discount_box_place_holder": "Застосувати код знижки",
+    "discount_box_cta": "Застосувати",
+    "discount_info_text": "Знижка буде застосована при оформленні замовлення"
 }
