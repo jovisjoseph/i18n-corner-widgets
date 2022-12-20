@@ -16,5 +16,9 @@
     "shipping_text": "การส่งสินค้า",
     "free_text": "ฟรี",
     "sold_out": "ขายหมดแล้ว",
-    "add_item": "เพิ่มรายการ"
+    "add_item": "เพิ่มรายการ",
+    "discount_text": "การลดราคา",
+    "discount_box_place_holder": "ใช้รหัสส่วนลด",
+    "discount_box_cta": "นำมาใช้",
+    "discount_info_text": "ส่วนลดจะถูกนำไปใช้เมื่อชำระเงิน"
 }
