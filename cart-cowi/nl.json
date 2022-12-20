@@ -16,5 +16,9 @@
     "shipping_text": "Verzenden",
     "free_text": "Vrij",
     "sold_out": "Uitverkocht",
-    "add_item": "Voeg item toe"
+    "add_item": "Voeg item toe",
+    "discount_text": "Korting",
+    "discount_box_place_holder": "Kortingscode toepassen",
+    "discount_box_cta": "Van toepassing zijn",
+    "discount_info_text": "De korting wordt verrekend bij het afrekenen"
 }
