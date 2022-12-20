@@ -16,5 +16,9 @@
     "shipping_text": "Spedizione",
     "free_text": "Gratuito",
     "sold_out": "Venduto",
-    "add_item": "Aggiungi articolo"
+    "add_item": "Aggiungi articolo",
+    "discount_text": "Sconto",
+    "discount_box_place_holder": "Applica codice sconto",
+    "discount_box_cta": "Fare domanda a",
+    "discount_info_text": "Lo sconto sarà applicato al momento del pagamento"
 }
