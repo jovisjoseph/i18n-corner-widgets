@@ -16,5 +16,9 @@
     "shipping_text": "Forsendelse",
     "free_text": "Ledig",
     "sold_out": "Udsolgt",
-    "add_item": "Tilføj element"
+    "add_item": "Tilføj element",
+    "discount_text": "Rabat",
+    "discount_box_place_holder": "Anvend rabatkode",
+    "discount_box_cta": "ansøge",
+    "discount_info_text": "Rabat vil blive anvendt ved kassen"
 }
