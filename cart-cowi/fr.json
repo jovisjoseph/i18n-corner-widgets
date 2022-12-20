@@ -16,5 +16,9 @@
     "shipping_text": "Expédition",
     "free_text": "Libre",
     "sold_out": "Épuisé",
-    "add_item": "Ajouter un item"
+    "add_item": "Ajouter un item",
+    "discount_text": "Remise",
+    "discount_box_place_holder": "Appliquer le code de réduction",
+    "discount_box_cta": "Appliquer",
+    "discount_info_text": "Le rabais sera appliqué à la caisse"
 }
