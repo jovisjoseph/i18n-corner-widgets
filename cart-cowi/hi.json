@@ -16,5 +16,9 @@
     "shipping_text": "शिपिंग",
     "free_text": "मुक्त",
     "sold_out": "बिक चुका है",
-    "add_item": "वस्तु जोड़ें"
+    "add_item": "वस्तु जोड़ें",
+    "discount_text": "छूट",
+    "discount_box_place_holder": "डिस्काउंट कोड लागू करें",
+    "discount_box_cta": "लागू करना",
+    "discount_info_text": "छूट चेकऑउट के समय प्रदान की जाएगी"
 }
