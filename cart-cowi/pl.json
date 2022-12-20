@@ -16,5 +16,9 @@
     "shipping_text": "Wysyłka",
     "free_text": "Bezpłatny",
     "sold_out": "Wyprzedane",
-    "add_item": "Dodaj Przedmiot"
+    "add_item": "Dodaj Przedmiot",
+    "discount_text": "Rabat",
+    "discount_box_place_holder": "Zastosuj kod rabatowy",
+    "discount_box_cta": "Zastosować",
+    "discount_info_text": "Rabat zostanie naliczony przy kasie"
 }
