@@ -20,5 +20,6 @@
     "discount_text": "Desconto",
     "discount_box_place_holder": "Aplicar código de desconto",
     "discount_box_cta": "Aplicar",
-    "discount_info_text": "O desconto sera aplicado na saida"
+    "discount_info_text": "O desconto sera aplicado na saida",
+    "bring_up_discount_box_button_text": "Adicionar código de cupom"
 }
