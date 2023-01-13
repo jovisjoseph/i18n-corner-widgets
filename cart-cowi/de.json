@@ -20,5 +20,6 @@
     "discount_text": "Rabatt",
     "discount_box_place_holder": "Rabattcode anwenden",
     "discount_box_cta": "Anwenden",
-    "discount_info_text": "Der Rabatt wird an der Kasse abgezogen"
+    "discount_info_text": "Der Rabatt wird an der Kasse abgezogen",
+    "bring_up_discount_box_button_text": "Gutscheincode hinzufügen"
 }
