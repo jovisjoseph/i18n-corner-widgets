@@ -20,5 +20,6 @@
     "discount_text": "Rabat",
     "discount_box_place_holder": "Zastosuj kod rabatowy",
     "discount_box_cta": "Zastosować",
-    "discount_info_text": "Rabat zostanie naliczony przy kasie"
+    "discount_info_text": "Rabat zostanie naliczony przy kasie",
+    "bring_up_discount_box_button_text": "Dodaj kod kuponu"
 }
