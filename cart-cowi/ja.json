@@ -20,5 +20,6 @@
     "discount_text": "割引",
     "discount_box_place_holder": "割引コードを適用",
     "discount_box_cta": "申し込み",
-    "discount_info_text": "割引はチェックアウト時に適用されます"
+    "discount_info_text": "割引はチェックアウト時に適用されます",
+    "bring_up_discount_box_button_text": "クーポンコードを追加"
 }
