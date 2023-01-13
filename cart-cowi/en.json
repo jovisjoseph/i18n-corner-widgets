@@ -20,5 +20,6 @@
     "discount_text": "Discount",
     "discount_box_place_holder": "Apply Discount Code",
     "discount_box_cta": "Apply",
-    "discount_info_text": "Discount will be applied at checkout"
+    "discount_info_text": "Discount will be applied at checkout",
+    "bring_up_discount_box_button_text": "Add coupon code"
 }
