@@ -20,5 +20,6 @@
     "discount_text": "Rabatt",
     "discount_box_place_holder": "Använd rabattkod",
     "discount_box_cta": "Tillämpa",
-    "discount_info_text": "Rabatten kommer att tillämpas i kassan"
+    "discount_info_text": "Rabatten kommer att tillämpas i kassan",
+    "bring_up_discount_box_button_text": "Lägg till kupongkod"
 }
