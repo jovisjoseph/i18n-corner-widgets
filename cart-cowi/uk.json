@@ -20,5 +20,6 @@
     "discount_text": "Знижка",
     "discount_box_place_holder": "Застосувати код знижки",
     "discount_box_cta": "Застосувати",
-    "discount_info_text": "Знижка буде застосована при оформленні замовлення"
+    "discount_info_text": "Знижка буде застосована при оформленні замовлення",
+    "bring_up_discount_box_button_text": "Додайте код купона"
 }
