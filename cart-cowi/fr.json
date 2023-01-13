@@ -20,5 +20,6 @@
     "discount_text": "Remise",
     "discount_box_place_holder": "Appliquer le code de réduction",
     "discount_box_cta": "Appliquer",
-    "discount_info_text": "Le rabais sera appliqué à la caisse"
+    "discount_info_text": "Le rabais sera appliqué à la caisse",
+    "bring_up_discount_box_button_text": "Ajouter un code promo"
 }
