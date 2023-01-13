@@ -20,5 +20,6 @@
     "discount_text": "Korting",
     "discount_box_place_holder": "Kortingscode toepassen",
     "discount_box_cta": "Van toepassing zijn",
-    "discount_info_text": "De korting wordt verrekend bij het afrekenen"
+    "discount_info_text": "De korting wordt verrekend bij het afrekenen",
+    "bring_up_discount_box_button_text": "Voeg couponcode toe"
 }
