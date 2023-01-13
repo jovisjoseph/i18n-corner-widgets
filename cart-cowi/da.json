@@ -20,5 +20,6 @@
     "discount_text": "Rabat",
     "discount_box_place_holder": "Anvend rabatkode",
     "discount_box_cta": "ansøge",
-    "discount_info_text": "Rabat vil blive anvendt ved kassen"
+    "discount_info_text": "Rabat vil blive anvendt ved kassen",
+    "bring_up_discount_box_button_text": "Tilføj kuponkode"
 }
