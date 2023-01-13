@@ -20,5 +20,6 @@
     "discount_text": "할인",
     "discount_box_place_holder": "할인 코드 적용",
     "discount_box_cta": "적용하다",
-    "discount_info_text": "결제 시 할인이 적용됩니다."
+    "discount_info_text": "결제 시 할인이 적용됩니다.",
+    "bring_up_discount_box_button_text": "쿠폰 코드 추가"
 }
