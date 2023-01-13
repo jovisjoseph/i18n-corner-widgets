@@ -20,5 +20,6 @@
     "discount_text": "Alennus",
     "discount_box_place_holder": "Käytä alennuskoodia",
     "discount_box_cta": "Käytä",
-    "discount_info_text": "Alennus lasketaan kassalla"
+    "discount_info_text": "Alennus lasketaan kassalla",
+    "bring_up_discount_box_button_text": "Lisää kuponkikoodi"
 }
