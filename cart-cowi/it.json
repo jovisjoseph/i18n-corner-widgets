@@ -20,5 +20,6 @@
     "discount_text": "Sconto",
     "discount_box_place_holder": "Applica codice sconto",
     "discount_box_cta": "Fare domanda a",
-    "discount_info_text": "Lo sconto sarà applicato al momento del pagamento"
+    "discount_info_text": "Lo sconto sarà applicato al momento del pagamento",
+    "bring_up_discount_box_button_text": "Aggiungi codice coupon"
 }
