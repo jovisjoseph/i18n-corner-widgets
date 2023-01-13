@@ -20,5 +20,6 @@
     "discount_text": "Descuento",
     "discount_box_place_holder": "Aplicar código de descuento",
     "discount_box_cta": "Solicitar",
-    "discount_info_text": "El descuento se aplicará al finalizar la compra."
+    "discount_info_text": "El descuento se aplicará al finalizar la compra.",
+    "bring_up_discount_box_button_text": "Añadir código de cupón"
 }
